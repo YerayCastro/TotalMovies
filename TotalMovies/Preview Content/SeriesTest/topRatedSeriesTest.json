@@ -1,0 +1,117 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/9faGSFi5jam6pDWGNd0p8JcJgXQ.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 1396,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Breaking Bad",
+            "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+            "popularity": 70.022,
+            "poster_path": "/ineLOBPG8AZsluYwnkMpHRyu7L.jpg",
+            "first_air_date": "2008-01-20",
+            "name": "Breaking Bad",
+            "vote_average": 8.923,
+            "vote_count": 15176
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7BzmK4MWc0cj4hCxwWURt6TS6UR.jpg",
+            "genre_ids": [
+                16,
+                10765,
+                10759,
+                35
+            ],
+            "id": 131378,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Adventure Time: Fionna & Cake",
+            "overview": "Fionna and Cake – with the help of the former Ice King, Simon Petrikov - embark on a multiverse-hopping adventure and journey of self-discovery. All the while a powerful new antagonist determined to track them down and erase them from existence, lurks in the shadows.",
+            "popularity": 6.253,
+            "poster_path": "/fi1b6U1kp73xheECzqwzMn8u3mX.jpg",
+            "first_air_date": "2023-08-31",
+            "name": "Adventure Time: Fionna & Cake",
+            "vote_average": 8.83,
+            "vote_count": 213
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wQEW3xLrQAThu1GvqpsKQyejrYS.jpg",
+            "genre_ids": [
+                16,
+                10765,
+                18,
+                10759
+            ],
+            "id": 94605,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Arcane",
+            "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+            "popularity": 23.033,
+            "poster_path": "/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
+            "first_air_date": "2021-11-06",
+            "name": "Arcane",
+            "vote_average": 8.8,
+            "vote_count": 4950
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lJuQBW4w1x6NgD514xDPqZ2Lbpz.jpg",
+            "genre_ids": [
+                16,
+                18,
+                9648
+            ],
+            "id": 220542,
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "薬屋のひとりごと",
+            "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
+            "popularity": 47.604,
+            "poster_path": "/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
+            "first_air_date": "2023-10-22",
+            "name": "The Apothecary Diaries",
+            "vote_average": 8.8,
+            "vote_count": 259
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/96RT2A47UdzWlUfvIERFyBsLhL2.jpg",
+            "genre_ids": [
+                16,
+                10759,
+                10765,
+                18
+            ],
+            "id": 209867,
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "葬送のフリーレン",
+            "overview": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity’s mortality. She takes on a new apprentice and promises to fulfill old friends’ dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
+            "popularity": 18.235,
+            "poster_path": "/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+            "first_air_date": "2023-09-29",
+            "name": "Frieren: Beyond Journey's End",
+            "vote_average": 8.773,
+            "vote_count": 393
+        }
+    ]
+}

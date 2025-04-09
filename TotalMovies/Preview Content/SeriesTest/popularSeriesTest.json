@@ -1,0 +1,91 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/tPLUHT2cQYJi66aSZZ1qrcu74Zq.jpg",
+            "genre_ids": [
+                10766,
+                18
+            ],
+            "id": 257048,
+            "origin_country": [
+                "BR"
+            ],
+            "original_language": "pt",
+            "original_name": "Garota do Momento",
+            "overview": "Beatriz Dourado, a young black woman marked by abandonment, searches for answers about her past and discovers that her mother, Clarice, left her to pursue her career in Rio de Janeiro. With devastating revelations and a new love, Beatriz faces adversity and transforms her pain into power, fighting to conquer her place in the world.",
+            "popularity": 2871.658,
+            "poster_path": "/jFSkjQSZ5Td52igalpoTQRuHtk.jpg",
+            "first_air_date": "2024-11-04",
+            "name": "She's the One",
+            "vote_average": 8.1,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j5CR0gFPjwgmAXkV9HGaF4VMjIW.jpg",
+            "genre_ids": [
+                10766,
+                18,
+                35
+            ],
+            "id": 257064,
+            "origin_country": [
+                "BR"
+            ],
+            "original_language": "pt",
+            "original_name": "Volta por Cima",
+            "overview": "",
+            "popularity": 2868.853,
+            "poster_path": "/nyN8R0P1Hqwq7ksJz4O2BIAUd4W.jpg",
+            "first_air_date": "2024-09-30",
+            "name": "Volta por Cima",
+            "vote_average": 5.6,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg",
+            "genre_ids": [
+                35,
+                10767
+            ],
+            "id": 63770,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Late Show with Stephen Colbert",
+            "overview": "Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late night, where he talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show is broadcast from the historic Ed Sullivan Theater. Stephen Colbert, Chris Licht, Tom Purcell, and Jon Stewart are executive producers. Barry Julien and Denise Rehrig serve as co-executive producers.must watch",
+            "popularity": 2619.328,
+            "poster_path": "/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
+            "first_air_date": "2015-09-08",
+            "name": "The Late Show with Stephen Colbert",
+            "vote_average": 6.5,
+            "vote_count": 290
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cchlQWYrnMPyl1EbjZWCzeAz8l5.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 36361,
+            "origin_country": [
+                "CZ"
+            ],
+            "original_language": "cs",
+            "original_name": "Ulice",
+            "overview": "Ulice is a Czech soap opera produced and broadcast by Nova. In the Czech language Ulice means street.\n\nThe show describes the lives of the Farský, Jordán, Boháč, Nikl, and Liška families and many other people that live in Prague. Their daily battle against real problems of living in a modern world like divorce, love, betrayal and illness or disease. Ulice often shows crime.",
+            "popularity": 2459.528,
+            "poster_path": "/gFEHva8Csx18hMGJJZ6gi4sFSKR.jpg",
+            "first_air_date": "2005-09-05",
+            "name": "Ulice",
+            "vote_average": 4.6,
+            "vote_count": 31
+        }
+    ]
+}
+
